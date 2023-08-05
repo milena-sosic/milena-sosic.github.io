@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Belgrade, Belgrade, Serbia
-      year: -
+    - title: PhD candidate
+      institution: Mathematics Faculty, University of Belgrade, Belgrade, Serbia
+      year: 2020
       description:
         - Description 1.
         - Description 2.
