@@ -2,9 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Magister for Computer Science, PhD candidate, NLP specialization</a>, 
-          <a href='#'>Computer Science, Mathematics Faculty, University of Belgrade</a>,
-          <a href='#'>Serbia</a>
+subtitle: <p class="font-weight-bold"><a href='#'>Magister for Computer Science, PhD candidate, NLP specialization</a>,</p> 
+          <p class="font-weight-bold"><a href='#'>Computer Science, Mathematics Faculty, University of Belgrade</a>,</p>
+          <p class="font-weight-bold"><a href='#'>Serbia</a></p>
 
 profile:
   align: right
