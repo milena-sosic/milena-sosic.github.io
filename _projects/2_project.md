@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Net Promoter Score Prediction
-description: a project with a background image and giscus comments
+description: 
 img: assets/img/net-promoter-score.jpg
+redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 2
 category: work
 giscus_comments: true

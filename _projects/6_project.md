@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Named Entity Recognition
-description: a project with no image
+description: 
 img: assets/img/namedentity.png
+redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 4
 category: fun
 ---

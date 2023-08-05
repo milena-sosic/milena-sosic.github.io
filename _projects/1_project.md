@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Applying classification methods on N-gram genome analysis
-description: a project with a background image
+description: 
 img: assets/img/nucleotide.jpg
-importance: 1
+redirect: https://www.linkedin.com/in/milena-sosic/
+importance: 7
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---

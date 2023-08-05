@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Search Relevance
-description: a project with a background image
+description: 
 img: assets/img/search-relevance.jpg
+redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 3
 category: fun
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hierarchical Multilabel Document Classification
+title: HR Analytics
 description: 
-img: assets/img/document-classification.jpg
+img: assets/img/hr-analytics.png
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 3
+importance: 4
 category: fun
 ---
 

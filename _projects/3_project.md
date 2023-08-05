@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Credit Risk Classification
-description: a project that redirects to another website
+description: 
 img: assets/img/credit-risk.jpg
-redirect: https://unsplash.com
+redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 3
 category: work
 ---

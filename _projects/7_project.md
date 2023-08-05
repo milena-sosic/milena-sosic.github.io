@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hierarchical Multilabel Document Classification
+title: Topic Modeling
 description: 
-img: assets/img/document-classification.jpg
+img: assets/img/topic-modeling.jpg
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 3
+importance: 8
 category: fun
 ---
 
