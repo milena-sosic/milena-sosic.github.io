@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
+title: Hierarchical Multilabel Document Classification
 description: another without an image
-img:
+img: assets/img/document-classification.jpg
 importance: 3
 category: fun
 ---

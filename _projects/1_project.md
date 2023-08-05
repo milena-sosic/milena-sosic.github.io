@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Applying classification methods on N-gram genome analysis
 description: a project with a background image
 img: assets/img/nucleotide.jpg
 importance: 1

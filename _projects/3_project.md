@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
+title: Credit Risk Classification
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/credit-risk.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work

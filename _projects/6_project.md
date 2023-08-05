@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
+title: Named Entity Recognition
 description: a project with no image
-img:
+img: assets/img/namedentity.png
 importance: 4
 category: fun
 ---
