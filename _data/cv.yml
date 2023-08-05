@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Milena Šošić
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th June 1978
     - name: Languages
-      value: English, German
+      value: Serbian, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Belgrade, Belgrade, Serbia
+      year: -
       description:
         - Description 1.
         - Description 2.
@@ -94,4 +94,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, Reading, Playing flute
