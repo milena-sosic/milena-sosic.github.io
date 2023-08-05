@@ -4,7 +4,7 @@ title: Named Entity Recognition
 description: 
 img: assets/img/namedentity.png
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 4
+importance: 6
 category: fun
 ---
 
