@@ -71,7 +71,13 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [{"hiking", "reading", "playing flute"}],
+  "interests": [
+    {
+    "name": "hiking"},
+    {
+      "name": "reading"},
+    {
+      "name": "playing flute"}],
   "references": [],
   "projects": []
 }
