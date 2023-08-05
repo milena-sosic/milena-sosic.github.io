@@ -4,7 +4,7 @@ title: Search Relevance
 description: 
 img: assets/img/search-relevance.jpg
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 3
+importance: 5
 category: fun
 ---
 

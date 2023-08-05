@@ -4,7 +4,7 @@ title: Applying classification methods on N-gram genome analysis
 description: 
 img: assets/img/nucleotide.jpg
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 7
+importance: 9
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---

@@ -4,7 +4,7 @@ title: Topic Modeling
 description: 
 img: assets/img/topic-modeling.jpg
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 8
+importance: 7
 category: fun
 ---
 

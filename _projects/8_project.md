@@ -4,7 +4,7 @@ title: HR Analytics
 description: 
 img: assets/img/hr-analytics.png
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 4
+importance: 8
 category: fun
 ---
 

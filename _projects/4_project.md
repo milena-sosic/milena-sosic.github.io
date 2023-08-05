@@ -4,7 +4,7 @@ title: Hierarchical Multilabel Document Classification
 description: 
 img: assets/img/document-classification.jpg
 redirect: https://www.linkedin.com/in/milena-sosic/
-importance: 3
+importance: 4
 category: fun
 ---
 
