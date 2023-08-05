@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Magister for Computer Science, PhD candidate in the NLP field</a>, Mathematics Faculty, University of Belgrade
 
