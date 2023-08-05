@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "milena-sosic,
-        "url": "https://twitter.com/milena-sosic"
+        "username": "milena-sosic",
+        "url": "https://linkedin.com/milena-sosic"
       }
     ]
   },
@@ -42,8 +42,8 @@
       "url": "http://www.matf.bg.ac.rs/",
       "area": "Computer Science, NLP",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "",
+      "startDate": "2020-10-01",
+      "endDate": "2024-10-01",
       "score": "",
       "courses": [
         "Text classification"
