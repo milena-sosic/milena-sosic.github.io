@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-An initial version of the website has been created! :sparkles: :smile:
+An initial version of the website has been created! :sparkles: :blush:
