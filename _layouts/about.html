@@ -43,8 +43,37 @@ layout: default
 
           <!-- News -->
           {% if page.education -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">education</a></h2>
-            {%- include resume.education.html limit=true %}
+            <h2> education</h2>
+           <article>
+              <div class="cv">
+                {% for data in site.data.resume %}
+                  {% if site.jsonresume and site.jsonresume.size > 0 %}
+                    {% unless site.jsonresume contains data[0] %}
+                      {% continue %}
+                    {% endunless %}
+                  {% endif %}
+                  {% if data[0] == "meta" or data[1].size == 0 %}
+                    {% continue %}
+                  {% endif %}
+                  <a class="anchor" id="{{ data[0] }}"></a>
+                  <div class="card mt-3 p-3">
+                    <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                    <div>
+                    {% case data[0] %}
+
+                      {% when "education" %}
+                        {% include resume/education.html %}
+                      {% when "interests" %}
+                        {% include resume/interests.html %}
+                      {% else %}
+
+                    {% endcase %}
+                    </div>
+        </div>
+      {% endfor %}
+      </div>
+  </article>
+
           {%- endif %}
 
           <!-- News -->
