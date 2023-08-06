@@ -43,8 +43,9 @@ layout: default
 
           <!-- News -->
           {% if page.education -%}
-            <h2> education</h2>
 
+           <article>
+              <div class="cv">
                 {% for data in site.data.resume %}
                   {% if site.jsonresume and site.jsonresume.size > 0 %}
                     {% unless site.jsonresume contains data[0] %}
@@ -63,15 +64,29 @@ layout: default
                     <div>
 
                         {% include resume/education.html %}
-                      {% when "interests" %}
-                        {% include resume/interests.html %}
-                      {% else %}
+
                         </div>
-                    {% endcase %}
+
 
         </div>
-      {% endfor %}
+                   {% when "interests" %}
+                  <a class="anchor" id="{{ data[0] }}"></a>
+                  <div class="card mt-3 p-3">
+                    <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                    <div>
 
+
+
+                        {% include resume/interests.html %}
+
+                        </div>
+
+
+        </div>
+                   {% endcase %}
+      {% endfor %}
+      </div>
+  </article>
 
           {%- endif %}
 

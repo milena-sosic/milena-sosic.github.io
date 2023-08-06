@@ -180,7 +180,10 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [{"name": "NLP",
+    "keywords": [
+      "computational linguistics, semantical text analysis, named entity recognition, part of speech tagging, topics modeling, n-gram language modeling, knowledge construction from richly formatted textual data, summarization"
+    ]}],
   "references": [],
   "projects": []
 }
