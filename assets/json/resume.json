@@ -80,7 +80,7 @@
       "endDate": "2010-12-02",
       "score": "10/10",
       "courses": [
-        "Bioinformatics · Genome · Text classification · Machine Learning"
+        "Bioinformatics", "Genome",  "Text classification", "Machine Learning"
       ]
     },
     {
@@ -92,7 +92,8 @@
       "endDate": "2004-04-06",
       "score": "8.86/10",
       "courses": [
-        "Study Programs in Computer Science: Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture, Computer System Architecture, Mathematical Logic in Computer Science, Automata Theory, Databases, Microprocessors, Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture.\n\nStudy Programs in Mathematics: Algebra (I and II), Analytical, Constructive and Euclidian Geometry, Calculus (I and II), Real and Complex Functions, Numerical Methods(I and II), Probability and Statistics"
+        "Study Programs in Computer Science: Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture, Computer System Architecture, Mathematical Logic in Computer Science, Automata Theory, Databases, Microprocessors, Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture."
+        "Study Programs in Mathematics: Algebra (I and II), Analytical, Constructive and Euclidian Geometry, Calculus (I and II), Real and Complex Functions, Numerical Methods(I and II), Probability and Statistics"
       ]
     }
   ],
