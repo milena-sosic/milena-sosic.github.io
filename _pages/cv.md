@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
 cv_pdf: resume.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: <p>`Machine Learning expert with eighteen years of experience in software development and machine learning algorithm development and implementation. Worked on high visibility projects in the commercial, banking and
+telecommunication areas. PhD candidate in Computer Science at Mathematics Faculty, University of Belgrade, NLP specialization`</p>
 social: true  # includes social icons at the bottom of the page
 ---

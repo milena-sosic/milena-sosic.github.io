@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p ><a href='#'>Magister for Computer Science</a>,</p> 
-          <p class="font-weight-bold"><a href='#'>PhD candidate in Computer Science, NLP specialization</a>,</p>
-          <p ><a href='#'>Mathematics Faculty, University of Belgrade</a>,</p>
-          <p ><a href='#'>Serbia</a></p>
+subtitle: <p >`Magister for Computer Science`</p> 
+          <p >`PhD candidate in Computer Science - NLP specialization`</p>
+          <p ><a href='http://www.matf.bg.ac.rs/'>Mathematics Faculty, University of Belgrade</a></p>
+          <p ><a href='https://en.wikipedia.org/wiki/Serbia'>Serbia</a></p>
 
 profile:
   align: right
