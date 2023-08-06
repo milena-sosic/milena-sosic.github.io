@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Milena Šošić",
-    "label": "Scientist",
+    "label": "mathematician & computer cientist",
     "image": "prof_pic.jpg",
     "email": "milena.sosic@gmail.com",
     "phone": "",
-    "url": "https://milena-sosic.github.io",
-    "summary": "A mathematician and computer scientist",
+    "url": "https://linkedin/milena-sosic",
+    "summary": "Machine Learning expert with eighteen years of experience in software development and machine learning algorithm development and implementation. Worked on highvisibility projects in the commercial, banking and telecommunication areas. PhD candidate at Mathematics Faculty, University of Belgrade, computer science department, NLP specialization",
     "location": {
       "address": "",
       "postalCode": "",
@@ -153,7 +153,26 @@
     }
   ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+    "name": "Programming languages",
+    "level": "Master",
+    "keywords": [
+      "Python", "C#", "C++", "C", "Java", "JavaScript", "SQL"
+    ]},
+    {
+    "name": "Databases",
+    "level": "Master",
+    "keywords": [
+      "MS SQL Server", "Oracle", "DB2"
+    ]},
+    {
+    "name": "Machine learning tools",
+    "level": "Master",
+    "keywords": [
+      "Scikit-learn", "TensorFlow", "PyTorch", "SPSS", "STATISTICA", "Weka", "IBM Intelligent Miner"
+    ]}
+  ],
   "languages": [
     {
       "language": "Serbian",
@@ -164,13 +183,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [
-    {
-    "name": "hiking"},
-    {
-      "name": "reading"},
-    {
-      "name": "playing flute"}],
+  "interests": [],
   "references": [],
   "projects": []
 }
