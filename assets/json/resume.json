@@ -168,7 +168,13 @@
     "name": "Machine learning tools",
     "level": "Master",
     "keywords": [
-      "Scikit-learn, TensorFlow, PyTorch, SPSS, STATISTICA, Weka, IBM Intelligent Miner"
+      "Scikit-learn, TensorFlow, PyTorch, SPSS, STATISTICA, Weka, IBM Intelligent Miner, scipy, numpy, pandas, Jupyter, matplotlib/seaborn"
+    ]},
+    {
+    "name": "NLP tools & model architectures",
+    "level": "Master",
+    "keywords": [
+      "BERT, GPT-3/4, gensim, fastText, word2vec, nltk, CoreNLP, HuggingFace Transformers, Simple Transformers"
     ]}
   ],
   "languages": [
@@ -185,6 +191,10 @@
     "keywords": [
       "Computational linguistics, Semantic text analysis, Named Entity Recognition (NER), PoS tagging, Topics modeling, N-gram language modeling, Knowledge construction from richly formatted textual data, Summarization"
     ]},
+    {
+      "name": "Serbian Language Morphology",
+      "keywords": ["Member of the group for language resources and technologies <a href='https://jerteh.rs/'>JeRTeh</a>"]
+    },
     {
       "name": "Hobbies",
       "keywords": ["Hiking", "Reading", "Playing flute"]
