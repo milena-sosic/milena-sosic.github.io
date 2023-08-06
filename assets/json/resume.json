@@ -113,7 +113,7 @@
       "startDate": "1997-10-01",
       "endDate": "2004-04-06",
       "score": "8.86",
-      "courses": []
+      "courses": ["Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture, Computer System Architecture, Mathematical Logic in Computer Science, Automata Theory, Databases, Microprocessors, Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture"]
     }
   ],
 
@@ -121,31 +121,26 @@
     {
       "name": "Natural Language Processing Specialization",
       "issuer": "Coursera",
-      "date": "2020-11-01",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HDGP8NS9SC9F"
     },
     {
       "name": "Deep Learning Specialization",
       "issuer": "Coursera",
-      "date": "2020-10-01",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/WZ6MEGFDMJUV"
     },
     {
       "name": "Machine Learning",
       "issuer": "Coursera",
-      "date": "2019-06-01",
       "url": "https://www.coursera.org/account/accomplishments/certificate/Y4EPCTNHCPEK"
     },
     {
       "name": "Learn Python Programming Masterclass",
       "issuer": "Udemy",
-      "date": "2019-08-01",
       "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-HIL9TWP9.pdf"
     },
     {
       "name": "DSC Europe 21 Certificate of Attendance",
       "issuer": "Data Science Conference",
-      "date": "2021-11-01",
       "url": "https://certificates.datasciconference.com/dsceur21/DSCEur21_Cert-NRLND3759D.pdf"
     }
   ],
@@ -155,19 +150,19 @@
     "name": "Programming languages",
     "level": "Master",
     "keywords": [
-      "Python", "C#", "C++", "C", "Java", "JavaScript", "SQL"
+      "Python, C#, C++, C, Java, JavaScript, SQL"
     ]},
     {
     "name": "Databases",
     "level": "Master",
     "keywords": [
-      "MS SQL Server", "Oracle", "DB2"
+      "MS SQL Server, Oracle, DB2"
     ]},
     {
     "name": "Machine learning tools",
     "level": "Master",
     "keywords": [
-      "Scikit-learn", "TensorFlow", "PyTorch", "SPSS", "STATISTICA", "Weka", "IBM Intelligent Miner"
+      "Scikit-learn, TensorFlow, PyTorch, SPSS, STATISTICA, Weka, IBM Intelligent Miner"
     ]}
   ],
   "languages": [
