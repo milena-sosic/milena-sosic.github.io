@@ -6,7 +6,7 @@
     "email": "milena.sosic@gmail.com",
     "phone": "",
     "url": "https://linkedin/milena-sosic",
-    "summary": "",
+    "summary": "Machine Learning expert with fifteen years of experience in data mining, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -87,7 +87,7 @@
       "area": "Computer Science, NLP",
       "studyType": "PhD",
       "startDate": "2020-10-01",
-      "endDate": "2024-10-01",
+      "endDate": "-",
       "score": "",
       "courses": [
         "Text classification · Multilingual (English, Serbian) · Conversation · (Deep) Machine Learning"
@@ -102,7 +102,7 @@
       "endDate": "2010-12-02",
       "score": "10",
       "courses": [
-        "Bioinformatics", "Genome",  "Text classification", "Machine Learning"
+        "Bioinformatics"
       ]
     },
     {
