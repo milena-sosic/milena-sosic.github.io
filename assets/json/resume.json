@@ -55,6 +55,28 @@
       "highlights": [
         "AI · Data · Mentoring · PoC · Project Management"
       ]
+    },
+    {
+      "name": "Selerant",
+      "position": "Machine Learning Team Lead",
+      "url": "https://selerant.com/",
+      "startDate": "2016-01-01",
+      "endDate": "2019-02-01",
+      "summary": "Manage state-of-the-art machine learning tasks for text segmentation and classification. Shape product features according to the business requirements. ",
+      "highlights": [
+        "Text classification · Semantic search · PoC · Project Management"
+      ]
+    },
+    {
+      "name": "Telenor",
+      "position": "Data Miner",
+      "url": "https://www.telenor.com/",
+      "startDate": "2013-12-01",
+      "endDate": "2015-12-01",
+      "summary": "Develop different up-sell, cross-sell and churn models. Support risk models development. Accountable for segmentation, customer lifetime value calculation.",
+      "highlights": [
+        "Customer classification · Credit risk · NPS scoring"
+      ]
     }
   ],
   "volunteer": [],
@@ -104,6 +126,30 @@
       "issuer": "Coursera",
       "date": "2020-11-01",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HDGP8NS9SC9F"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "Coursera",
+      "date": "2020-10-01",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/WZ6MEGFDMJUV"
+    },
+    {
+      "name": "Machine Learning",
+      "issuer": "Coursera",
+      "date": "2019-06-01",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/Y4EPCTNHCPEK"
+    },
+    {
+      "name": "Learn Python Programming Masterclass",
+      "issuer": "Udemy",
+      "date": "2019-08-01",
+      "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-HIL9TWP9.pdf"
+    },
+    {
+      "name": "DSC Europe 21 Certificate of Attendance",
+      "issuer": "Data Science Conference",
+      "date": "2021-11-01",
+      "url": "https://certificates.datasciconference.com/dsceur21/DSCEur21_Cert-NRLND3759D.pdf"
     }
   ],
   "publications": [],
