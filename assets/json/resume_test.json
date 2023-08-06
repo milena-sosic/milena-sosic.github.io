@@ -174,7 +174,7 @@
     "name": "NLP tools & model architectures",
     "level": "Master",
     "keywords": [
-      "BERT, GPT-3/4, gensim, fastText, word2vec, nltk, CoreNLP, HuggingFace Transformers, Simple Transformers"
+      "BERT, GPT-3/4, gensim, fastText, word2vec, nltk, spacy, CoreNLP, HuggingFace Transformers, Simple Transformers"
     ]}
   ],
   "languages": [
