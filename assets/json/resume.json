@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Milena Šošić",
-    "label": "mathematician & computer cientist",
+    "label": "Mathematician & computer scientist",
     "image": "prof_pic.jpg",
     "email": "milena.sosic@gmail.com",
     "phone": "",
     "url": "https://linkedin/milena-sosic",
-    "summary": "Machine Learning expert with fifteen years of experience in data mining, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. ",
+    "summary": "Machine Learning expert with eighteen years of experience in data mining, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -85,7 +85,7 @@
       "institution": "Mathematics Faculty, University of Belgrade, Belgrade, Serbia",
       "url": "http://www.matf.bg.ac.rs/",
       "area": "Computer Science, NLP",
-      "studyType": "PhD",
+      "studyType": "PhD Candidate",
       "startDate": "2020-10-01",
       "endDate": "-",
       "score": "",
@@ -113,7 +113,8 @@
       "startDate": "1997-10-01",
       "endDate": "2004-04-06",
       "score": "8.86",
-      "courses": ["Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture, Computer System Architecture, Mathematical Logic in Computer Science, Automata Theory, Databases, Microprocessors, Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture"]
+      "courses": ["Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture, Computer System Architecture, Mathematical Logic in Computer Science, Automata Theory, Databases, Microprocessors, Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture",
+      "Algebra (I and II), Analytical, Constructive and Euclidian Geometry, Calculus (I and II), Real and Complex Functions, Numerical Methods(I and II), Probability and Statistics"]
     }
   ],
 
@@ -137,6 +138,11 @@
       "name": "Learn Python Programming Masterclass",
       "issuer": "Udemy",
       "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-HIL9TWP9.pdf"
+    },
+     {
+      "name": "Understanding and Visualizing Data with Python",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/FXKL8MXHHWWZ"
     },
     {
       "name": "DSC Europe 21 Certificate of Attendance",
@@ -177,8 +183,13 @@
   ],
   "interests": [{"name": "NLP",
     "keywords": [
-      "computational linguistics, semantical text analysis, named entity recognition, part of speech tagging, topics modeling, n-gram language modeling, knowledge construction from richly formatted textual data, summarization"
-    ]}],
+      "Computational linguistics, Semantic text analysis, Named Entity Recognition (NER), PoS tagging, Topics modeling, N-gram language modeling, Knowledge construction from richly formatted textual data, Summarization"
+    ]},
+    {
+      "name": "Hobbies",
+      "keywords": ["Hiking", "Reading", "Playing flute"]
+    }
+  ],
   "references": [],
   "projects": []
 }
