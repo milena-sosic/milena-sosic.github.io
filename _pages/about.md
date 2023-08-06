@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p ><a href='https://en.wikipedia.org/wiki/Magister_degree'>Magister</a>for Computer Science</p> 
+subtitle: <p ><a href='https://en.wikipedia.org/wiki/Magister_degree'>Magister</a> for Computer Science</p> 
           <p class="font-weight-bold">PhD candidate in Computer Science - NLP specialization</p>
           <p ><a href='http://www.matf.bg.ac.rs/'>Mathematics Faculty, University of Belgrade</a></p>
           <p ><a href='https://en.wikipedia.org/wiki/Serbia'>Serbia</a></p>
