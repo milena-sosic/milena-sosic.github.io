@@ -2,9 +2,9 @@
 layout: page
 title: Search Relevance
 description: 
-img: assets/img/search-relevance.jpg
-redirect: https://images.unsplash.com/photo-1558673532-102034a5f6e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
-importance: 5
+img: https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
+redirect: https://www.linkedin.com/in/milena-sosic/
+importance: 3
 category: fun
 ---
 
