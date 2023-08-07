@@ -4,7 +4,7 @@ title: Toolkits for Serbian Language
 description: 
 img: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
 
-redirect: https://www.linkedin.com/in/milena-sosic/
+redirect: 
 importance: 4
 category: research
 ---

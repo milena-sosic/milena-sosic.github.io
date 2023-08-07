@@ -3,7 +3,7 @@ layout: page
 title: Other NLP Projects
 description: 
 img: https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80
-redirect: https://www.linkedin.com/in/milena-sosic/
+redirect: 
 importance: 3
 category: work
 ---
