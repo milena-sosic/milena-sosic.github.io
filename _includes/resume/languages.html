@@ -4,17 +4,22 @@
       <table class="table-cv list-group-table">
         <tbody>
           <tr>
-            {% if content.icon %}
-            <td class="list-group-category-icon"><i class="{{ content.icon }}"></i></td> 
-            {% else %}
-            <td class="list-group-category-icon"></td>
-            {% endif %}
+<!--            {% if content.icon %}-->
+<!--            <td class="list-group-category-icon"><i class="{{ content.icon }}"></i></td> -->
+<!--            {% else %}-->
+<!--            <td class="list-group-category-icon"></td>-->
+<!--            {% endif %}-->
             <!-- Calculate colspan number for category title -->
             {% assign i = 1 %}
             {% for item in content.items %}
               {% assign i = i | plus:1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.language }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+                <h6 class="institution" style="font-size: 0.95rem;">
+                <i class="fa fa-language iconinstitution"></i>
+                {{ content.language }}
+                </h6>
+            </td>
           </tr>
           <tr>
             <td></td>
