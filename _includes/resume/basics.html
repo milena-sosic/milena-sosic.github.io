@@ -1,5 +1,5 @@
 <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = "image,location" | split:"," %}
+  {% assign skip_basics = "image,profiles,location" | split:"," %}
   {% for content in data[1] %}
     {% if (content[1] == "") or (skip_basics contains content[0]) %}
       {% continue %}
@@ -15,7 +15,7 @@
       {% elsif content[0] == "phone" %}
       <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
       {% elsif content[0] == "name" %}
-      <a href="/" onclick="return false;">{{ content[1] }}</a>
+      <a href="/" onclick="return false;" class="font-weight-bold">{{ content[1] }}</a>
       {% else %}
       {{ content[1] }}
       {% endif %}
