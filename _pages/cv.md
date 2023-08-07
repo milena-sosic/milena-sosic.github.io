@@ -9,6 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
-cv_pdf: resume.pdf
+cv_pdf: example_pdf.pdf
 description: 
 ---
