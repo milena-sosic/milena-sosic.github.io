@@ -21,17 +21,22 @@
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
 
-                <h6 class="institution" style="font-size: 0.95rem;">
-                <i class="fas fa-university iconlocation"></i>
 
+                <h6 class="institution" style="font-size: 0.95rem;">
+                <i class="fas fa-search-location iconinstitution"></i>
                 <a href="{{ content.url | default: # }}">{{ content.name }}</a>
-                    </h6>
+                </h6>
 
             </td>
           </tr>
           <tr>
 <!--            <td></td>-->
-            <td class="list-group-name"><b>{{ content.issuer }}</b></td>
+            <td class="list-group-name">
+                <h6 class="institution" style="font-size: 0.95rem;">
+                <i class="fas fa-location-arrow"></i>
+                <b>{{ content.issuer }}</b>
+                </h6>
+            </td>
             <td class="list-group-name">{{ content.date }}</td>
           </tr>
         </tbody>
