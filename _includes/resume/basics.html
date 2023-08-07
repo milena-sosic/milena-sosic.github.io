@@ -12,7 +12,7 @@
 <!--      <a href="{{ content[1] }}" target="_blank" rel="noopener noreferrer">{{ content[1] }}</a>-->
       <a href="{{ content[1] }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       {% elsif content[0] == "email" %}
-      <a href="mailto:{{ content[1] }}" target="_blank"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:{{ content[1] | encode_email}}" title="email"><i class="fas fa-envelope"></i></a>
       {% elsif content[0] == "phone" %}
       <a href="tel:{{ content[1] }}"><i class="fas fa-phone"></i></a>
       {% elsif content[0] == "name" %}
