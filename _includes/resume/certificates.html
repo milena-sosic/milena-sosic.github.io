@@ -21,8 +21,8 @@
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
 
-                <h6 class="ml-1 ml-md-4 institution" style="font-size: 0.95rem;">
-                <i class="fas fa-university iconinstitution"></i>
+                <h6 class="institution" style="font-size: 0.95rem;">
+                <i class="fas fa-university iconlocation"></i>
 
                 <a href="{{ content.url | default: # }}">{{ content.name }}</a>
                     </h6>
@@ -30,7 +30,7 @@
             </td>
           </tr>
           <tr>
-            <td></td>
+<!--            <td></td>-->
             <td class="list-group-name"><b>{{ content.issuer }}</b></td>
             <td class="list-group-name">{{ content.date }}</td>
           </tr>
