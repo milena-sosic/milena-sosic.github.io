@@ -6,7 +6,7 @@ img: https://images.unsplash.com/photo-1557075877-bf592ed513a7?ixlib=rb-4.0.3&ix
 
 redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 5
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

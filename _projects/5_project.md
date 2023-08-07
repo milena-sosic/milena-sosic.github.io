@@ -2,10 +2,10 @@
 layout: page
 title: Search Relevance
 description: 
-img: https://images.unsplash.com/photo-1615411836704-2c1636331bc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80
+img: https://images.unsplash.com/photo-1477013743164-ffc3a5e556da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80
 redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 2
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
