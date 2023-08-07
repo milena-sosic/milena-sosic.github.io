@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NLP Related Projects
+title: Other NLP Projects
 description: 
-img: https://images.unsplash.com/photo-1675557009875-436f71457475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
+img: https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80
 redirect: https://www.linkedin.com/in/milena-sosic/
 importance: 6
 category: fun
