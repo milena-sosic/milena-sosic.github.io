@@ -187,7 +187,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [{"name": "NLP",
+  "interests": [{"name": "Natural language processing (NLP)",
     "keywords": [
       "Computational linguistics, Semantic text analysis, Named Entity Recognition (NER), PoS tagging, Topics modeling, N-gram language modeling, Knowledge construction from richly formatted textual data, Summarization"
     ]},
