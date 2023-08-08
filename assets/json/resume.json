@@ -150,7 +150,22 @@
       "url": "https://certificates.datasciconference.com/dsceur21/DSCEur21_Cert-NRLND3759D.pdf"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+    "name": "Effective methods for email classification: Is it a business or personal email?",
+    "publisher": "Computer Science and Information Systems",
+    "releaseDate": "2022-06-01",
+    "url": "https://doiserbia.nb.rs/img/doi/1820-0214/2022/1820-02142200034S.pdf",
+    "summary": ""
+  },
+    {
+    "name": "SRPOL--A LEXICON BASED FRAMEWORK FOR SENTIMENT STRENGTH OF SERBIAN TEXTS",
+    "publisher": "Review of the National Center for Digitization",
+    "releaseDate": "2022-12-01",
+    "url": "https://www.ncd.matf.bg.ac.rs/issues/41/7.pdf",
+    "summary": ""
+  }
+  ],
   "skills": [
     {
     "name": "Programming languages",
