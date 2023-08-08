@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Machine Learning expert with eighteen years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. Has a knowledge of CRISP-DM methodology for data mining.
+Computer scientist with eighteen years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. Has a knowledge of CRISP-DM methodology for data mining.
 
 Able to influence the strategic direction of the company by identifying opportunities in large, rich data sets, creating and implementing data driven strategies that fuel growth including revenue and profits.
 
