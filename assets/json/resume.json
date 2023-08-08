@@ -216,5 +216,38 @@
     }
   ],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+    "name": "Applying classification methods on N-gram genome analysis",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Scientific thesis in the field of bioinformatics using machine learning and data mining techniques - identification of genomic islands using the N-gram statistical behavior on the particular regions of the genome sequence.",
+    "highlights": ["Magister thesis"],
+    "url": ""
+  },
+    {
+    "name": "Hierarchical Multilabel Document Classification",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Assigning textual data to categories with complex hierarchical structure and distribution.",
+    "highlights": ["Document classification", "Product attributes detection", "Multilabel stratified sampling"],
+    "url": ""
+  },
+    {
+    "name": "Email classification into Business and Personal categories",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Classifying email messages with mixed content to Business/Personal categories.",
+    "highlights": ["Text classification", "BERT embeddings", "Tf-Idf", "Tensorflow","Research project"],
+    "url": "https://github.com/milena-sosic/Email-Business-Personal"
+  },
+    {
+    "name": "Health-Care Search & Answer",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Applying advanced search algorithms to retrieve relevant search results. Experiment with different Q&A modeling techniques to provide relevant answer.",
+    "highlights": ["Text similarity", "Extreme classification", "Q&A", "Transformers", "Transfer learning", "BERT modeling"],
+    "url": ""
+  }
+  ]
 }
