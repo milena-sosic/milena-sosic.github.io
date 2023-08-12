@@ -28,7 +28,6 @@
       "position": "Senior Data Scientist",
       "url": "https://www.griddynamics.com/",
       "startDate": "2021-01-01",
-      "endDate": "-",
       "summary": "Design and implement new solutions with focus on predictive analytics. Run projects in NLP domain using newest machine learning technologies. ",
       "highlights": [
         "Data Modeling · Analytics · Artificial Neural Networks · PyTorch · Keras  · TensorFlow"
@@ -87,7 +86,6 @@
       "area": "Computer Science, NLP",
       "studyType": "PhD Candidate",
       "startDate": "2020-10-01",
-      "endDate": "-",
       "score": "",
       "courses": [
         "Text classification · Multilingual (English, Serbian) · Conversation · (Deep) Machine Learning"
@@ -222,8 +220,7 @@
     "startDate": "2008-03-01",
     "endDate": "2010-12-02",
     "summary": "Scientific thesis in the field of bioinformatics using machine learning and data mining techniques - identification of genomic islands using the N-gram statistical behavior on the particular regions of the genome sequence.",
-    "highlights": ["Magister thesis · Research project"],
-    "url": "/"
+    "highlights": ["Magister thesis · Research project"]
   },
     {
     "name": "Email classification into Business and Personal categories",
@@ -238,32 +235,28 @@
     "startDate": "2017-05-01",
     "endDate": "2019-12-01",
     "summary": "Assigning textual data to categories with complex hierarchical structure and distribution.",
-    "highlights": ["Document classification · Product attributes detection · Multilabel stratified sampling"],
-    "url": "/"
+    "highlights": ["Document classification · Product attributes detection · Multilabel stratified sampling"]
   },
     {
     "name": "Health-Care Search & Answer",
     "startDate": "2021-03-01",
     "endDate": "2021-09-01",
     "summary": "Applying advanced search algorithms to retrieve relevant search results. Experiment with different Q&A modeling techniques to provide relevant answer.",
-    "highlights": ["Text similarity · Extreme classification · Q&A · Transformers · Transfer learning · BERT modeling · BioASQ"],
-    "url": "/"
+    "highlights": ["Text similarity · Extreme classification · Q&A · Transformers · Transfer learning · BERT modeling · BioASQ"]
   },
     {
     "name": "HR - Analytics",
     "startDate": "2022-03-01",
     "endDate": "2022-12-01",
     "summary": "Extracting candidate attributes from the resume using machine learning techniques. Find similarity between candidate resume and position description. Compute demand time for opened positions.",
-    "highlights": ["Named Entity Recognition · Text similarity · Transformers · BERT modeling · Regression"],
-    "url": "/"
+    "highlights": ["Named Entity Recognition · Text similarity · Transformers · BERT modeling · Regression"]
   },
     {
     "name": "SRPOL",
     "startDate": "2022-07-01",
     "endDate": "2022-12-01",
     "summary": "Create a word sentiment lexicon and complete framework to calculate sentiment strength for a given text writen in Serbian language.",
-    "highlights": ["Word lexicon · Contextual sentiment triggers · Text segmentation · Sentiment strength"],
-    "url": "/"
+    "highlights": ["Word lexicon · Contextual sentiment triggers · Text segmentation · Sentiment strength"]
   }
   ]
 }
