@@ -1,38 +1,17 @@
-# This is a basic workflow that is manually triggered
+name: Update Resume Gist
 
-name: Manual workflow
+on: push
 
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
-on:
-  workflow_dispatch:
-    # Inputs the workflow accepts.
-    inputs:
-      name:
-        # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
-        # Default value if no value is explicitly provided
-        default: 'World'
-        # Input has to be provided for the workflow to run
-        required: true
-        # The data type of the input
-        type: string
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "greet"
-  greet:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+  update-resume-gist:
+    runs-on: ubuntu-latest 
     steps:
-    # Runs a single command using the runners shell
-    - name: html to pdf
-      uses: misaelnieto/web_to_pdf_action@master
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Update Resume Gist
+      uses: exuanbo/actions-deploy-gist@v1
       with:
-        webPageURL: https://milena-sosic.github.io/cv/
-        outputFile: ./assets/pdf/resume_Milena.pdf
-        usePuppeteer: true
-        useScreen: true
-        pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+        token: ${{ secrets.TOKEN }}
+        gist_id: 97e90723cbdf91be9b663f2d7fe3f76c
+        file_path: resume.json
