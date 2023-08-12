@@ -8,7 +8,7 @@
     "image": "/assets/img/prof_pic.jpg",
     "email": "milena.sosic@gmail.com",
     "phone": "",
-    "url": "https://www.linkedin.com/in/milena-sosic/",
+    "url": "https://www.milena-sosic.github.io",
     "summary": "Computer scientist with eighteen years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Applied machine learning algorithms to highly visible projects in different domains. PhD candidate in computer science, NLP specialization.",
     "location": {
       "address": "",
@@ -21,7 +21,12 @@
       {
         "network": "LinkedIn",
         "username": "milena-sosic",
-        "url": "https://linkedin.com/milena-sosic"
+        "url": "https://linkedin.com/in/milena-sosic"
+      },
+      {
+        "network": "GitHub",
+        "username": "milena-sosic",
+        "url": "https://github.com/milena-sosic"
       }
     ]
   },
@@ -114,8 +119,11 @@
       "startDate": "1997-10-01",
       "endDate": "2004-04-06",
       "score": "8.86",
-      "courses": ["Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture, Computer System Architecture, Mathematical Logic in Computer Science, Automata Theory, Databases, Microprocessors, Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture",
-      "Algebra (I and II), Analytical, Constructive and Euclidian Geometry, Calculus (I and II), Real and Complex Functions, Numerical Methods(I and II), Probability and Statistics"]
+      "courses": ["Programming Languages (Pascal, C, C++, Java, Prolog, Lisp), Algorithms Architecture",
+        "Computer System Architecture, Mathematical Logic, Automata Theory, Databases, Microprocessors",
+        "Microcomputers, Assembly Language, Compilers and Interpreters, Programmable Systems Architecture",
+      "Algebra (I and II), Analytical, Constructive and Euclidian Geometry, Calculus (I and II)",
+        "Real and Complex Functions, Numerical Methods(I and II), Probability and Statistics"]
     }
   ],
 
@@ -205,7 +213,8 @@
   ],
   "interests": [{"name": "Natural Language Processing (NLP)",
     "keywords": [
-      "Computational linguistics, Semantic text analysis, Named Entity Recognition (NER), PoS tagging, Topics modeling, Language modeling, Knowledge construction from richly formatted textual data, Summarization"
+      "Computational linguistics, Semantic text analysis, Named Entity Recognition (NER), PoS tagging",
+      "Topics modeling, Language modeling, Knowledge construction from richly formatted textual data, Summarization"
     ]},
     {
       "name": "Serbian Language Resources",
