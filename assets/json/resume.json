@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "theme": "elegant"
+  },
   "basics": {
     "name": "Milena Šošić",
     "label": "Mathematician & computer scientist",
