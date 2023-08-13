@@ -132,32 +132,38 @@
     {
       "name": "Natural Language Processing Specialization",
       "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HDGP8NS9SC9F"
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HDGP8NS9SC9F",
+      "date": "2020-11-13"
     },
     {
       "name": "Deep Learning Specialization",
       "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/WZ6MEGFDMJUV"
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/WZ6MEGFDMJUV",
+      "date": "2020-10-07"
     },
     {
       "name": "Machine Learning",
       "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/Y4EPCTNHCPEK"
+      "url": "https://www.coursera.org/account/accomplishments/certificate/Y4EPCTNHCPEK",
+      "date": "2019-06-19"
     },
     {
       "name": "Learn Python Programming Masterclass",
       "issuer": "Udemy",
-      "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-HIL9TWP9.pdf"
+      "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-HIL9TWP9.pdf",
+      "date": "2019-08-19"
     },
      {
-      "name": "Understanding and Visualizing Data with Python",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/FXKL8MXHHWWZ"
-    },
+       "name": "Understanding and Visualizing Data with Python",
+       "issuer": "Coursera",
+       "url": "https://www.coursera.org/account/accomplishments/certificate/FXKL8MXHHWWZ",
+       "date": "2020-02-15"
+     },
     {
       "name": "DSC Europe 21 Certificate of Attendance",
       "issuer": "Data Science Conference",
-      "url": "https://certificates.datasciconference.com/dsceur21/DSCEur21_Cert-NRLND3759D.pdf"
+      "url": "https://certificates.datasciconference.com/dsceur21/DSCEur21_Cert-NRLND3759D.pdf",
+      "date": "2021-11-01"
     }
   ],
   "publications": [
