@@ -199,7 +199,7 @@
     "name": "Machine learning tools",
     "level": "Master",
     "keywords": [
-      "Scikit-learn", "TensorFlow", "PyTorch", "SPSS", "STATISTICA", "Weka", "IBM Intelligent Miner", "scipy", "numpy", "pandas", "Jupyter", "matplotlib/seaborn"
+      "Scikit-learn", "TensorFlow", "PyTorch", "SPSS", "STATISTICA", "Weka", "IBM Intelligent Miner", "scipy", "numpy", "pandas", "Jupyter"
     ]},
     {
     "name": "NLP tools & model architectures",
