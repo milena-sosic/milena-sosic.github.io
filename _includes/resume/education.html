@@ -39,7 +39,7 @@
            <li>
           {% for item in content.courses %}
 
-            <span class="item">{{ item }} {% if forloop.last %} {% else %} · {% endif%}</span>
+            <span class="item">{{ item }} {% if forloop.last %} {% else %}, {% endif%}</span>
 
           {% endfor %}
            </li>
