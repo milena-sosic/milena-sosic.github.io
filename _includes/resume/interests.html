@@ -21,12 +21,14 @@
               </h6>
             </td>
           </tr>
-          {% for item in content.keywords %}
+
           <tr>
+              {% for item in content.keywords %}
 <!--            <td></td>-->
-            <td class="list-group-name"><b>{{ item }}</b></td>
+            <td class="list-group-name"><b>{{ item }}  {% endfor %}</b></td>
+              {% endfor %}
           </tr>
-          {% endfor %}
+
         </tbody>
       </table>
     </div>
