@@ -42,7 +42,8 @@
 <!--          </li>-->
 <!--          {% endfor %}-->
           <li>
-            <span class="item">{% ','.join(content.courses) %} </span>
+            {% var = ','.join(content.courses) %}
+            <span class="item">{{ var}} </span>
           </li>
         </ul>
       </div>
