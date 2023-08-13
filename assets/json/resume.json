@@ -293,7 +293,7 @@
     "name": "Semantic Query Parsing",
     "startDate": "2022-01-01",
     "endDate": "2022-10-01",
-    "summary": "Create a word sentiment lexicon and complete framework to calculate sentiment strength for a given text writen in Serbian language.",
+    "summary": "Parse search queries to understand user search intention using historical data and user search preferences. Apply advanced methods for the semantic parsing to improve the relevance of the required search results.",
     "highlights": ["Query Understanding · Intention Modeling · Information Extraction · Synthetic Query Generation · Similarity"]
   }
   ]
