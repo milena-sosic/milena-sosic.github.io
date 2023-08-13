@@ -25,7 +25,7 @@
           <tr>
               {% for item in content.keywords %}
 <!--            <td></td>-->
-            <td class="list-group-name"><b>{{ item }}  {% endfor %}</b></td>
+            <td class="list-group-name"><b>{{ item }}  {% if forloop.last %} {% else %} · {% endif%}</b></td>
               {% endfor %}
           </tr>
 
