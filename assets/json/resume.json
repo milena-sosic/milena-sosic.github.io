@@ -166,7 +166,7 @@
       "date": "2021-11-01"
     },
     {
-      "name": "4th International Winter School on Big Data, BigDat2018",
+      "name": "4th International Winter School on Big Data - BigDat2018",
       "issuer": "West University of Timisoara",
       "url": "https://irdta.eu/BigDat2018/",
       "date": "2018-01-22"
@@ -294,7 +294,7 @@
     "startDate": "2022-01-01",
     "endDate": "2022-10-01",
     "summary": "Parse search queries to understand user search intention using historical data and user search preferences. Apply advanced methods for the semantic parsing to improve the relevance of the required search results.",
-    "highlights": ["Query Understanding · Intention Modeling · Information Extraction · Synthetic Query Generation · Similarity"]
+    "highlights": ["Query Understanding · Intention Modeling · Information Extraction · Synthetic Query Generation · Semantic Similarity"]
   }
   ]
 }
