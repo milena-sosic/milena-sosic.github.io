@@ -23,10 +23,14 @@
           </tr>
 
           <tr>
-              {% for item in content.keywords %}
+
 <!--            <td></td>-->
-            <td class="list-group-name"><b>{{ item }}  {% if forloop.last %} {% else %} · {% endif%}</b></td>
-              {% endfor %}
+            <td class="list-group-name"
+              {% for item in content.keywords %}
+              <b>{{ item }}  {% if forloop.last %} {% else %} · {% endif%}</b>
+               {% endfor %}
+              </td>
+
           </tr>
 
         </tbody>
