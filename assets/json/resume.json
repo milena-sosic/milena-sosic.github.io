@@ -164,6 +164,18 @@
       "issuer": "Data Science Conference",
       "url": "https://certificates.datasciconference.com/dsceur21/DSCEur21_Cert-NRLND3759D.pdf",
       "date": "2021-11-01"
+    },
+    {
+      "name": "4th International Winter School on Big Data, BigDat2018",
+      "issuer": "West University of Timisoara",
+      "url": "https://irdta.eu/BigDat2018/",
+      "date": "2018-01-22"
+    },
+    {
+      "name": "Hands-On Machine Learning with scikit-learn and Python",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-4913eaec-07f5-409b-9cfb-e933e8640460/",
+      "date": "2020-10-01"
     }
   ],
   "publications": [
@@ -276,6 +288,13 @@
     "endDate": "2022-12-01",
     "summary": "Create a word sentiment lexicon and complete framework to calculate sentiment strength for a given text writen in Serbian language.",
     "highlights": ["Word lexicon · Contextual sentiment triggers · Text segmentation · Sentiment strength"]
+  },
+     {
+    "name": "Semantic Query Parsing",
+    "startDate": "2022-01-01",
+    "endDate": "2022-10-01",
+    "summary": "Create a word sentiment lexicon and complete framework to calculate sentiment strength for a given text writen in Serbian language.",
+    "highlights": ["Query Understanding · Intention Modeling · Information Extraction · Synthetic Query Generation · Similarity"]
   }
   ]
 }
