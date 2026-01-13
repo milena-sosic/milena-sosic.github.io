@@ -30,11 +30,26 @@
         </table>
       </div>
       <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-        <h6 class="title font-weight-bold ml-1 ml-md-4"><a href="/" onclick="return false;">{{content.studyType}}</a></h6>
+        <h6 class="title font-weight-bold ml-1 ml-md-4"> <!-- <a href="/" onclick="return false;">{{content.studyType}}</a> -->
+          {% if content.degree_url %}
+            <a href="{{ content.degree_url }}" target="_blank" rel="noopener">
+              {{ content.studyType }}
+            </a>
+          {% else %}
+            <span>{{ content.studyType }}</span>
+          {% endif %}
+        </h6>
         <h6 class="ml-1 ml-md-4 institution" style="font-size: 0.95rem;">
         <i class="fas fa-university iconinstitution"></i><a href="{{ content.url }}"><b>{{content.institution}}</b></a>
         </h6>
         <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic;">{{content.area}}</h6>
+
+        {% if content.thesis %}
+
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic; font-weight: bold;">Thesis titled: {{ content.thesis }}</h6>
+
+        {% endif %}
+
         <ul class="items">
            <li>
           {% for item in content.courses %}

@@ -14,3 +14,65 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+/* Presentations / Recent Talks spacing fix */
+.presentations-container .documents-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.presentations-container .documents-list {
+  display: grid;
+  gap: 8px;
+}
+
+.presentations-container .document-item {
+  padding: 7px 8px;
+  // border: 2px solid rgba(0,0,0,.08);
+  // border-radius: 12px;
+}
+
+.presentations-container .document-title {
+  margin: 0 0 8px 0;
+  line-height: 1.25;
+}
+
+.presentations-container .document-meta {
+  display: grid;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.presentations-container .meta-item {
+  line-height: 1.35;
+}
+
+.presentations-container .document-occasion,
+.presentations-container .document-place,
+.presentations-container .document-date {
+  display: inline;
+}
+
+.presentations-container .document-links .document-link {
+  display: inline-block;
+  margin-top: 2px;
+}
+
+/* Optional: make sort buttons not cramped */
+.presentations-container .sort-controls {
+  display: flex;
+  gap: 8px;
+}
+.presentations-container .sort-btn {
+  padding: 6px 6px;
+  border-radius: 6px;
+}
+.presentation-icon {
+  margin-right: 8px;
+  color: var(--global-theme-color);
+  font-size: 0.9em;
+  vertical-align: middle;
+}

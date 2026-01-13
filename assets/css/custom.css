@@ -1,0 +1,22 @@
+/* Back button – al-folio style */
+.back-btn {
+  border: 1px solid var(--global-divider-color);
+  color: var(--global-text-color);
+  background: transparent;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.back-btn i {
+  margin-right: 4px;
+}
+
+.back-btn:hover {
+  background: var(--global-bg-color);
+  border-color: var(--global-accent-color);
+  color: var(--global-accent-color);
+  text-decoration: none;
+}
+.back-btn:focus {
+  box-shadow: 0 0 0 0.2rem var(--global-accent-color-transparent);
+}

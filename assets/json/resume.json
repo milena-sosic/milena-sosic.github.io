@@ -3,14 +3,14 @@
     "theme": "elegant"
   },
   "basics": {
-    "name": "mr Milena Šošić",
-    "label": "Mathematician & computer scientist",
+    "name": "dr Milena Šošić",
+    "label": "Mathematician | Computer scientist | Researcher| Machine learning engineer | NLP expert | AI enthusiast",
     "image": "https://en.gravatar.com/userimage/238663843/ebb9dae227b59f161ab4ffab168fbc0a.jpeg?size=256",
     "email": "milena.sosic@gmail.com",
-    "phone": "",
-    "url": "https://milena-sosic.github.io",
+    "phone": "(+381) 64 30 55 705",
+    "linkedIn": "https://www.linkedin.com/in/milena-sosic/",
     "website": "https://milena-sosic.github.io",
-    "summary": "Computer scientist with eighteen years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Applied machine learning algorithms to highly visible projects in different domains. PhD candidate in computer science, NLP specialization.",
+    "summary": "Machine Learning expert with over twenty years of experience in software engineering and machine learning algorithm design and implementation. Proven track record of delivering results in large-scale projects across finance, telecom, and commercial industries. PhD degree in Natural Language Processing (NLP) field. ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,10 +33,21 @@
   },
   "work": [
     {
+      "name": "Publicis Sapient",
+      "position": "Senior Data Scientist",
+      "url": "https://www.publicissapient.com/",
+      "startDate": "2024-03-01",
+      "summary": "Design and implement state-of-the-art solutions with focus on LLMs and structured data extraction. ",
+      "highlights": [
+        "LLMs · RAG · Vector Databases · DSPy · Evaluation · Prompt Engineering · Knowledge Graphs"
+      ]
+    },
+    {
       "name": "GridDynamics",
       "position": "Senior Data Scientist",
       "url": "https://www.griddynamics.com/",
       "startDate": "2021-01-01",
+      "endDate": "2024-03-01",
       "summary": "Design and implement new solutions with focus on predictive analytics. Run projects in NLP domain using newest machine learning technologies. ",
       "highlights": [
         "Data Modeling · Analytics · Artificial Neural Networks · PyTorch · Keras  · TensorFlow"
@@ -90,33 +101,39 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Mathematics Faculty, University of Belgrade, Serbia",
+      "institution": "Faculty of Mathematics, University of Belgrade, Serbia",
       "url": "http://www.matf.bg.ac.rs/",
-      "area": "Computer Science, NLP",
-      "studyType": "PhD Candidate",
+      "area": "Computer Science, Machine Learning, Natural Language Processing",
+      "thesis": "Modeling moral and emotional language aspects in conversational texts classification",
+      "studyType": "Doctor of Philosophy (Dr/PhD)",
+      "degree_url": "https://en.wikipedia.org/wiki/Doctor_of_Philosophy",
       "startDate": "2020-10-01",
-      "score": "",
+      "endDate": "2025-12-26",
+      "score": "10",
       "courses": [
-        "Text classification", "Multilingual (English, Serbian)", "Conversation", "(Deep) Machine Learning"
+        "Text classification", "Semantic Knowledge Bases (English, Serbian)", "Conversation", "Emotions", "Morality"
       ]
     },
     {
-      "institution": "Mathematics Faculty, University of Belgrade, Serbia",
+      "institution": "Faculty of Mathematics, University of Belgrade, Serbia",
       "url": "http://www.matf.bg.ac.rs/",
       "area": "Computer Science",
-      "studyType": "Magister",
+      "thesis": "Applying classification methods on N-gram genome analysis",
+      "studyType": "Magister of Science (Mr/Mag/MPhil)",
+      "degree_url": "https://en.wikipedia.org/wiki/Magister_degree",
       "startDate": "2004-10-01",
       "endDate": "2010-12-02",
       "score": "10",
       "courses": [
-        "Bioinformatics"
+        "Databases", "Data Mining", "Bioinformatics"
       ]
     },
     {
-      "institution": "Mathematics Faculty, University of Belgrade, Serbia",
+      "institution": "Faculty of Mathematics, University of Belgrade, Serbia",
       "url": "http://www.matf.bg.ac.rs/",
-      "area": "Computer Science",
-      "studyType": "Diploma",
+      "area": "Computer Science, Mathematics",
+      "studyType": "Graduated Mathematician and Computer Scientist (BSc/MSc)",
+      "degree_url": "https://en.wikipedia.org/wiki/Diplom",
       "startDate": "1997-10-01",
       "endDate": "2004-04-06",
       "score": "8.86",
@@ -192,6 +209,13 @@
     "releaseDate": "2022-12-01",
     "url": "https://www.ncd.matf.bg.ac.rs/issues/41/7.pdf",
     "summary": ""
+  },
+   {
+    "name": "Building an emotion lexicon for Serbian using curated language resources",
+    "publisher": "Language Resources and Evaluation, Springer",
+    "releaseDate": "2026-01-06",
+    "url": "https://doi.org/10.1007/s10579-025-09639-3",
+    "summary": ""
   }
   ],
   "skills": [
@@ -205,7 +229,7 @@
     "name": "Databases",
     "level": "Master",
     "keywords": [
-      "MS SQL Server", "Oracle", "DB2"
+      "MS SQL Server", "Oracle", "DB2", "Vector Databases (Pinecone, Weaviate, Milvus)", "NoSQL (MongoDB, Cassandra, Redis)"
     ]},
     {
     "name": "Machine learning tools",
@@ -217,7 +241,7 @@
     "name": "NLP tools & model architectures",
     "level": "Master",
     "keywords": [
-      "BERT", "GPT-3/4", "gensim", "fastText", "word2vec", "nltk", "spacy", "CoreNLP", "HuggingFace Transformers", "Simple Transformers"
+      "BERT", "GPT-3/4", "gensim", "fastText", "word2vec", "nltk", "spacy", "CoreNLP", "HuggingFace Transformers", "Sentence Transformers", "Langchain", "LangGraph", "DSPy"
     ]}
   ],
   "languages": [
@@ -236,6 +260,10 @@
       "Topics modeling", "Language modeling", "Knowledge construction from richly formatted textual data", "Summarization"
     ]},
     {
+      "name": "LLMs",
+      "keywords": ["Architectures", "Bias", "Content Genearation", "Annotation", "Validation", "Hallucination", "Serbian language"]
+    },
+    {
       "name": "Serbian Language Resources",
       "keywords": ["JeRTeh", "Group", "Membership", "Resources", "Technologies", "Serbian language"]
     },
@@ -247,34 +275,19 @@
   "references": [],
   "projects": [
     {
-    "name": "Applying classification methods on N-gram genome analysis",
-    "startDate": "2008-03-01",
-    "endDate": "2010-12-02",
-    "summary": "Scientific thesis in the field of bioinformatics using machine learning and data mining techniques - identification of genomic islands using the N-gram statistical behavior on the particular regions of the genome sequence.",
-    "highlights": ["Magister thesis · Research project"]
+    "name": "Agentic RAG for Technical Documents Search",
+    "startDate": "2024-03-01",
+    "endDate": "2026-12-02",
+    "summary": "Create advanced RAG pipeline for technical customer support. Project leverages usage of multiple vector DB, web search and prompt engineering techniques to produce the most relevant response to the users.",
+    "highlights": ["RAG · Vector Databases · Prompt Engineering · LLMs · DSPy"]
   },
-    {
-    "name": "Email classification into Business and Personal categories",
-    "startDate": "2021-01-01",
-    "endDate": "2022-06-01",
-    "summary": "Classifying email messages with mixed content to Business/Personal categories.",
-    "highlights": ["Text classification · BERT embeddings · Tf-Idf · Tensorflow · Research project"],
-    "url": "https://github.com/milena-sosic/Email-Business-Personal"
-  },
-    {
-    "name": "Hierarchical Multilabel Document Classification",
-    "startDate": "2017-05-01",
-    "endDate": "2019-12-01",
-    "summary": "Assigning textual data to categories with complex hierarchical structure and distribution.",
-    "highlights": ["Document classification · Product attributes detection · Multilabel stratified sampling"]
-  },
-    {
-    "name": "Health-Care Search & Answer",
-    "startDate": "2021-03-01",
-    "endDate": "2021-09-01",
-    "summary": "Applying advanced search algorithms to retrieve relevant search results. Experiment with different Q&A modeling techniques to provide relevant answer.",
-    "highlights": ["Text similarity · Extreme classification · Q&A · Transformers · Transfer learning · BERT modeling · BioASQ"]
-  },
+   {
+    "name": "Building an emotion lexicon for Serbian using curated language resources",
+    "startDate": "2024-06-01",
+    "endDate": "2026-01-06",
+    "summary": "Creating emotion lexicon for Serbian language using available language resources and manual annotation.",
+    "highlights": ["Emotion lexicon · Language resources · Annotation · NLP · Research project"]
+    },
     {
     "name": "HR - Analytics",
     "startDate": "2022-03-01",
@@ -295,6 +308,35 @@
     "endDate": "2022-10-01",
     "summary": "Parse search queries to understand user search intention using historical data and user search preferences. Apply advanced methods for the semantic parsing to improve the relevance of the required search results.",
     "highlights": ["Query Understanding · Intention Modeling · Information Extraction · Synthetic Query Generation · Semantic Similarity"]
+  },
+   {
+    "name": "Health-Care Search & Answer",
+    "startDate": "2021-03-01",
+    "endDate": "2021-09-01",
+    "summary": "Applying advanced search algorithms to retrieve relevant search results. Experiment with different Q&A modeling techniques to provide relevant answer.",
+    "highlights": ["Text similarity · Extreme classification · Q&A · Transformers · Transfer learning · BERT modeling · BioASQ"]
+  },
+   {
+    "name": "Email classification into Business and Personal categories",
+    "startDate": "2021-01-01",
+    "endDate": "2022-06-01",
+    "summary": "Classifying email messages with mixed content to Business/Personal categories.",
+    "highlights": ["Text classification · BERT embeddings · Tf-Idf · Tensorflow · Research project"],
+    "url": "https://github.com/milena-sosic/Email-Business-Personal"
+  },
+   {
+    "name": "Hierarchical Multilabel Document Classification",
+    "startDate": "2017-05-01",
+    "endDate": "2019-12-01",
+    "summary": "Assigning textual data to categories with complex hierarchical structure and distribution.",
+    "highlights": ["Document classification · Product attributes detection · Multilabel stratified sampling"]
+  },
+  {
+    "name": "Applying classification methods on N-gram genome analysis",
+    "startDate": "2008-03-01",
+    "endDate": "2010-12-02",
+    "summary": "Magister thesis in the field of bioinformatics using machine learning and data mining techniques - identification of genomic islands using the N-gram statistical behavior on the particular regions of the genome sequence.",
+    "highlights": ["Magister thesis · Research project"]
   }
   ]
 }

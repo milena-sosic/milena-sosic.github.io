@@ -2,9 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p><a class="font-weight-bold" href='https://en.wikipedia.org/wiki/Magister_degree'>Magister</a> for Computer Science</p> 
-          <p class="font-weight-bold">PhD candidate in Computer Science - NLP specialization</p>
-          <p><a class="font-weight-bold" href='http://www.matf.bg.ac.rs/'>Mathematics Faculty, University of Belgrade</a></p>
+subtitle: 
+# <p><a class="font-weight-bold" href='https://en.wikipedia.org/wiki/Magister_degree'>Magister</a> for Computer Science</p> 
+          <p class="font-weight-bold">PhD for Computer Science - NLP specialization</p>
+          <p><a class="font-weight-bold" href='http://www.matf.bg.ac.rs/'>Faculty of Mathematics, University of Belgrade</a></p>
           <p><a class="font-weight-bold" href='https://en.wikipedia.org/wiki/Serbia'>Serbia</a></p>
 
 profile:
@@ -20,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Computer scientist with eighteen years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. Has a knowledge of CRISP-DM methodology for data mining.
+Computer scientist with twenty years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. Has a knowledge of CRISP-DM methodology for data mining.
 
 Able to influence the strategic direction of the company by identifying opportunities in large, rich data sets, creating and implementing data driven strategies that fuel growth including revenue and profits.
 
@@ -30,15 +31,15 @@ Utilize analytical tools (`Weka, SPSS, STATISTICA, Azure Cloud`) to identify tre
 
 Working experience in software development, architecture and management include, but is not limited to, following areas: `.NET technology development, information systems architecture and optimization, design algorithms, database architecture, business intelligence and machine learning`. Especially,
 
-- Methodologies: Object oriented software development and design (OOD and OOP)
+- Methodologies: Object oriented software development and design (OOD and OOP),
 
-- Programming languages, databases and technologies: C#/ASP.Net, MS MVC, MS SQL Server. PostgreSQL, HTML, JavaScript, jQuery, `Python`
+- Programming languages, databases and technologies: C#/ASP.Net, MS MVC, MS SQL Server. PostgreSQL, HTML, JavaScript, jQuery, `Python`,
 
-- Machine learning tools: `Weka, SPSS, STATISTICA, IBM Infosphere, IBM Intelligent Miner, Microsoft Azure Cloud Services`, python libraries for machine learning (`scikit-learn, numpy, pandas, matplotlib, seaborn, statsmodels, jupyter notebook`), python libraries for deep learning (`keras, tensorflow, pytorch`), `Anaconda`
+- Machine learning tools: `Weka, SPSS, STATISTICA, IBM Infosphere, IBM Intelligent Miner, Microsoft Azure Cloud Services`, python libraries for machine learning (`scikit-learn, numpy, pandas, matplotlib, seaborn, statsmodels, jupyter notebook`), python libraries for deep learning (`keras, tensorflow, pytorch`), LLM & AI tools (`langchain, langgraph, CrewAI, promptflow, LiteLLM, vLLM, Unsloth, DSPy, Langfuse, Docling`),
 
-- Specialization in the field of `NLP`, especially: `computational linguistics, semantical text analysis, named entity recognition, part of speech tagging, topics modeling, n-gram language modeling, knowledge construction from richly formatted textual data, summarization`
+- Specialization in the field of `NLP`, especially: `computational linguistics, semantic text analysis, named entity recognition, part of speech tagging, topic modeling, n-gram language modeling, knowledge construction from unstructured textual data, summarization, information retrieval`,
 
-- Hands-on experience with `data preparation` including: `data cleansing`, `feature engineering` and `visualization`
+- Hands-on experience with `data preparation` including: `data cleansing`, `feature engineering` and `visualization`,
 
-- Reading and writing machine learning scientific publications and transform their results into business value
+- Reading and writing machine learning scientific publications and transform their results into business value.
 

@@ -9,16 +9,16 @@ last_name: Šošić
 email: milena.sosic@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text:
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+# footer_text:
+#   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+#   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 #
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://milena-sosic.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -79,7 +79,7 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: milena-sosic # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: yV8RCGQAAAAJ # your Google Scholar ID
+scholar_userid: yV8RCGQAAAAJ # your Google Scholar ID yV8RCGQAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-9949-9686 # your ORCID ID
@@ -228,7 +228,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
@@ -276,8 +276,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Sosic]
-  first_name: [Milena, S.]
+  last_name: [Šošić]
+  first_name: [Milena, Š.]
 
   style: apa
   locale: en

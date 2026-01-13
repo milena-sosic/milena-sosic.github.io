@@ -4,9 +4,6 @@ github_users:
 github_repos:
   - milena-sosic/Email-Business-Personal
   - milena-sosic/SRPOL
-  - milena-sosic/transformers
-  - milena-sosic/Deep-Reinforcement-Learning-With-Python
-  - milena-sosic/datasets
-  - milena-sosic/awesome-papers
-  - milena-sosic/tokenizers
+  - https://github.com/milena-sosic/EmoLex.SR
+ 
 
