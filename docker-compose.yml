@@ -7,3 +7,8 @@ services:
       - 8080:8080
     volumes:
       - .:/srv/jekyll
+      - bundle_cache:/usr/local/bundle
+    command: bash -lc "bundle install && bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace"
+
+volumes:
+  bundle_cache: {}
