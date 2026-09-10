@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received Annual Award in Computing for PhD Students. 🏆🎓💻
+Received Annual Award in Computing for Ph.D. Students. 🏆🎓💻

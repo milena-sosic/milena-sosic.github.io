@@ -16,7 +16,11 @@
       {% elsif content[0] == "phone" %}
       <a href="tel:{{ content[1] }}"><i class="fas fa-phone"></i> {{ content[1] }}</a>
       {% elsif content[0] == "website" %}
-      <a href="tel:{{ content[1] }}"><i class="fas fa-globe"></i> {{ content[1] }}</a>
+      <a href="{{ content[1] }}" title="Website"><i class="fas fa-globe"></i> {{ content[1] }}</a>
+      {% elsif content[0] == "orcid" %}
+      <a href="{{ content[1] }}" title="ORCID"><i class="fab fa-orcid"></i> {{ content[1] }}</a>
+      {% elsif content[0] == "github" %}
+      <a href="{{ content[1] }}" title="GitHub"><i class="fab fa-github"></i> {{ content[1] }}</a>
       {% elsif content[0] == "name" %}
       <a href="/" onclick="return false;" class="font-weight-bold">{{ content[1] }}</a>
       {% else %}

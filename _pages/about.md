@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: 
 # <p><a class="font-weight-bold" href='https://en.wikipedia.org/wiki/Magister_degree'>Magister</a> for Computer Science</p> 
-          <p class="font-weight-bold">PhD for Computer Science - NLP specialization</p>
+          <p class="font-weight-bold">Ph.D. for Computer Science - NLP specialization</p>
           <p><a class="font-weight-bold" href='http://www.matf.bg.ac.rs/'>Faculty of Mathematics, University of Belgrade</a></p>
           <p><a class="font-weight-bold" href='https://en.wikipedia.org/wiki/Serbia'>Serbia</a></p>
 

@@ -67,11 +67,12 @@ layout: default
       <div class="cv-summary">
 
         <p>
-          AI researcher and practitioner with a PhD in Mathematics,
+          AI researcher and practitioner with a Ph.D. degree in Computer Science and 20+ years of experience in software engineering,
           combining academic research and industry experience across
           machine learning, NLP, LLMs, information retrieval, and semantic
           knowledge systems. My work focuses on applied AI and language
-          technologies, with a particular interest in Serbian.
+          technologies, with a particular interest in developing resources 
+          and technologies for Serbian language. Proven track record of delivering results in large-scale projects across finance, telecom, and e-commerce industries.
         </p>
 
         <div class="cv-links">
@@ -241,78 +242,11 @@ layout: default
     {% endif %}
 
 
-    <!-- Summary, CV links and Table of Contents -->
-
-    <!-- <div class="cv-top">
-
-      <div class="cv-summary">
-
-        <p>
-          AI researcher and practitioner with a PhD in Mathematics,
-          combining academic research and industry experience across
-          machine learning, NLP, LLMs, information retrieval, and semantic
-          knowledge systems. My work focuses on applied AI and language
-          technologies, with a particular interest in Serbian.
-        </p>
-
-        <div class="cv-links">
-        <h3>
-          <a class="float-right"
-             href="{{ 'assets/pdf/industry-cv.pdf' | relative_url }}"
-             target="_blank"
-             rel="noopener noreferrer">
-            <i class="fas fa-file-pdf"></i>
-            Industry
-          </a>
-
-          <a class="float-right"
-             href="{{ 'assets/pdf/academic-cv.pdf' | relative_url }}"
-             target="_blank"
-             rel="noopener noreferrer">
-            <i class="fas fa-file-pdf"></i>
-            Academic
-          </a>
-        </h3>
-        </div>
-
-      </div>
-      <br>
-
-      <div class="cv-toc">
-     <h4>Table of contents</h4> 
-
-        <div class="cv-toc-items">
-        <h3>
-          {% for entry in site.data.resume %}
-
-            {% if site.jsonresume and site.jsonresume.size > 0 %}
-
-              {% unless site.jsonresume contains entry[0] %}
-                {% continue %}
-              {% endunless %}
-
-            {% endif %}
-
-            {% if entry[0] == "meta" or entry[1].size == 0 %}
-              {% continue %}
-            {% endif %}
-
-            <a href="#{{ entry[0] }}" class="cv-toc-item">
-              {{ entry[0] | capitalize }}
-            </a>
-
-          {% endfor %}
-        </h3>
-        </div>
-
-      </div>
-
-    </div> -->
 <div class="cv-top">
   <!-- Blok sa opisom i dugmićima za preuzimanje -->
   <div class="cv-header">
     <p class="cv-summary">
-      AI researcher and practitioner with a PhD in Computer Science and 20+ years of experience in software engineering,
+      AI researcher and practitioner with a Ph.D. degree in Computer Science and 20+ years of experience in software engineering,
       combining academic research and industry experience across
       machine learning, NLP, LLMs, information retrieval, and semantic
       knowledge systems. My work focuses on applied AI and language
