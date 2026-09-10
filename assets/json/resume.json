@@ -3,14 +3,14 @@
     "theme": "elegant"
   },
   "basics": {
-    "name": "dr Milena Šošić",
-    "label": "Mathematician | Computer scientist | Researcher| Machine learning engineer | NLP expert | AI enthusiast",
+    "name": "Milena Šošić",
+    "label": "Ph.D. | Computer Scientist | Mathematician | Researcher| Machine Learning Engineer | NLP & AI Expert",
     "image": "https://en.gravatar.com/userimage/238663843/ebb9dae227b59f161ab4ffab168fbc0a.jpeg?size=256",
     "email": "milena.sosic@gmail.com",
     "phone": "(+381) 64 30 55 705",
     "linkedIn": "https://www.linkedin.com/in/milena-sosic/",
     "website": "https://milena-sosic.github.io",
-    "summary": "Machine Learning expert with over twenty years of experience in software engineering and machine learning algorithm design and implementation. Proven track record of delivering results in large-scale projects across finance, telecom, and commercial industries. PhD degree in Natural Language Processing (NLP) field. ",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -98,7 +98,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Faculty of Mathematics, University of Belgrade, Serbia",
@@ -144,7 +143,14 @@
         "Real and Complex Functions", "Numerical Methods (I and II)", "Probability and Statistics"]
     }
   ],
-
+  "awards": [
+    {
+    "name": "Annual Award in Computing for Ph.D. Students",
+    "issuer": "Mathematical Institute of the Serbian Academy of Sciences and Arts",
+    "date": "2026-05-28",
+    "summary": "Annual Award in Computing for Ph.D. Students, Mathematical Institute of the Serbian Academy of Sciences and Arts"
+    }
+  ],
   "certificates": [
     {
       "name": "Natural Language Processing Specialization",

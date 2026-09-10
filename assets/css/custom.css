@@ -20,3 +20,224 @@
 .back-btn:focus {
   box-shadow: 0 0 0 0.2rem var(--global-accent-color-transparent);
 }
+
+/* CV intro section */
+
+/* .cv-top {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv-summary {
+  max-width: 700px;
+}
+
+.cv-summary p {
+  line-height: 1.55;
+  margin-bottom: 1rem;
+}
+
+.cv-links {
+  display: flex;
+  gap: 0.7rem;
+  margin-bottom: 1.2rem;
+}
+
+.cv-links .btn {
+  white-space: nowrap;
+}
+
+.cv-toc h4 {
+  margin-bottom: 0.7rem;
+}
+
+.cv-toc-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.8rem;
+  max-width: 900px;
+}
+
+.cv-toc-item {
+  display: inline-block;
+  color: #c51b1b !important;
+  font-size: 0.9rem;
+  text-decoration: none !important;
+}
+
+.cv-toc-item:hover {
+  text-decoration: underline !important;
+} */
+
+/* Prilagođeno sistemskim promenljivim teme */
+.cv-top {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.cv-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .cv-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: start;
+    gap: 2rem;
+  }
+}
+
+.cv-summary {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--global-text-color, #333);
+  margin: 0;
+}
+
+/* Akciona dugmad - koriste primarnu boju teme */
+.cv-download-actions {
+  display: flex;
+  gap: 28px;
+  flex-wrap: wrap;
+}
+
+.btn-cv {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.1rem;
+  background-color: var(--global-theme-color, #0056b3);
+  color: #ffffff !important;
+  border: 1px solid var(--global-theme-color, #0056b3);
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none !important;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.btn-cv:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.btn-cv-outline {
+  background-color: transparent;
+  color: var(--global-theme-color, #0056b3) !important;
+  border: 1px solid var(--global-theme-color, #0056b3);
+}
+
+.btn-cv-outline:hover {
+  background-color: var(--global-theme-color, #0056b3);
+  color: #ffffff !important;
+}
+
+/* Sadržaj (Table of Contents) - neutralni tonovi */
+/* .cv-toc {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: var(--global-bg-color-grey, #f8f9fa);
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  border: 1px solid var(--global-divider-color, #e9ecef);
+}
+
+.cv-toc-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--global-text-color-light, #6c757d);
+  white-space: nowrap;
+}
+
+.cv-toc-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cv-toc-item {
+  text-decoration: none;
+  color: var(--global-text-color, #495057);
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: color 0.15s ease;
+}
+
+.cv-toc-item:hover {
+  color: var(--global-theme-color, #0056b3);
+  text-decoration: underline;
+} */
+
+/* Sadržaj u jednoj kompaktnoj liniji */
+.cv-toc {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background-color: var(--global-bg-color-grey, #f8f9fa);
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  border: 1px solid var(--global-divider-color, #e9ecef);
+}
+
+.cv-toc-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--global-text-color-light, #6c757d);
+  white-space: nowrap;
+}
+
+.cv-toc-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.35rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  /* Omogućava horizontalni scroll na malim ekranima umesto preloma u novi red */
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Sakriva estetski ružan scrollbar na mobilnim uređajima */
+.cv-toc-list::-webkit-scrollbar {
+  display: none;
+}
+.cv-toc-list {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Kompaktne pilule za sekcije */
+.cv-toc-item {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  text-decoration: none !important;
+  color: var(--global-text-color, #495057);
+  font-weight: 500;
+  font-size: 0.85rem;
+  transition: all 0.15s ease;
+}
+
+.cv-toc-item:hover {
+  background-color: var(--global-theme-color, #0056b3);
+  color: #ffffff !important;
+}
