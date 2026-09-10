@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New project pages, updated CV, and additional references are now available. :sparkles: :memo: :books:
+New project pages, updated resume and additional references are now available. :memo: :books:
