@@ -15,13 +15,14 @@ profile:
   address: 
 
 education: true
+awards: true
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Computer scientist with twenty years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the commercial, banking and telecommunications areas. Has a knowledge of CRISP-DM methodology for data mining.
+Computer scientist with twenty years of experience in machine learning, text mining, business intelligence and general software algorithms development and implementation. Worked on high-visibility projects in the e-commerce, banking and telecommunications areas. Has a knowledge of CRISP-DM methodology for data mining.
 
 Able to influence the strategic direction of the company by identifying opportunities in large, rich data sets, creating and implementing data driven strategies that fuel growth including revenue and profits.
 
@@ -41,5 +42,5 @@ Working experience in software development, architecture and management include,
 
 - Hands-on experience with `data preparation` including: `data cleansing`, `feature engineering` and `visualization`,
 
-- Reading and writing machine learning scientific publications and transform their results into business value.
+- Reading and writing scientific publications in the machine learning/artificial intelligence/natural language processing area and transform their results into business value.
 

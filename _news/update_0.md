@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published scientific paper in Language Resources and Evaluation (Springer) journal. 📑✍️💻✨
+Published scientific paper in Language Resources and Evaluation (Springer group) journal. 📑✍️💻
